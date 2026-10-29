@@ -27,13 +27,10 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prasadbhalerao1&theme=dark&hide_border=true&background=00000000" alt="Prasad's GitHub Streak" />
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuchitRaute&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" width="48%" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuchitRaute&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="48%" />
-
-</div>
 
 ---
 

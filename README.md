@@ -24,16 +24,16 @@
 
 
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuchitRaute&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub statistics" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuchitRaute&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchitRaute&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Most used languages" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuchitRaute&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="48%" />
 
 </div>
-
 
 ---
 

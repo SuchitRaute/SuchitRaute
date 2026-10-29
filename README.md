@@ -22,27 +22,32 @@
 
 ---
 
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuchitRaute&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=SuchitRaute&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub statistics" width="48%" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchitRaute&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=SuchitRaute&theme=github-dark-blue&hide_border=true" alt="GitHub streak statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchitRaute&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Most used languages" width="48%" />
 
 </div>
+
 
 ---
 
+
+
+
 ## 👾 My Contribution Galaxy
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuchitRaute/SuchitRaute/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuchitRaute/SuchitRaute/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution animation" src="https://raw.githubusercontent.com/SuchitRaute/SuchitRaute/output/galaga-contribution-graph.svg" width="100%">
+</picture>
 
-<img src="https://raw.githubusercontent.com/SuchitRaute/SuchitRaute/output/galaga-contribution-graph-dark.svg" width="100%" alt="Galaga contribution animation" />
-
-</div>
 
 ---
 

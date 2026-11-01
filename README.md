@@ -27,8 +27,9 @@
 
 ## 📊 GitHub Statistics
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prasadbhalerao1&theme=dark&hide_border=true&background=00000000" alt="Prasad's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuchitRaute&theme=dark&hide_border=true&background=00000000" alt="Suchit's GitHub Streak" />
 </p>
 
 

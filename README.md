@@ -23,6 +23,7 @@
 
 ---
 
+---
 
 ## 🎯 Career Objective
 
@@ -31,7 +32,7 @@ skills, work on real-world projects, collaborate with teams, and grow
 through practical industry experience.
 
 
-
+---
 
 
 ## 📊 GitHub Statistics
@@ -93,18 +94,20 @@ through practical industry experience.
 
 - **IT Helpdesk & Ticket Management System** — Developed a system for ticket creation, technician assignment, and issue status tracking.
 - **Expense Tracker System** — Built an expense management application using PostgreSQL and Prisma for data handling.
-- **Amazon Clone** — Created a responsive e-commerce frontend inspired by Amazon's interface.
+- **Blood Donation System** — Donor management web application built with Java, JSP, Servlets, and Derby.
 - **Bank Management System** — Implemented basic banking operations using C++.
+
 ---
 
 
 ## 💼 Areas of Interest
 
+- Cybersecurity
 - Full Stack Web Development
 - Backend Development & APIs
 - Database Management
 - Software Development
-- Cybersecurity
+
 
   
 ## 🤝 Let's Connect

@@ -14,13 +14,22 @@
 ## 👨‍💻 About Me
 
 - 🎓 Third-year B.Tech CSBS student at JSPM RSCOE, Pune
-- 💻 Practicing Data Structures & Algorithms (DSA)
-- 🔐 Interested in Cybersecurity
-- 🛡️ Exploring SOC Analysis
-- 🌐 Learning Computer Networks, Linux & Security Fundamentals
-- 🚀 Focused on problem-solving and continuous learning
+- 💻 Interested in Full Stack Web Development and Software Engineering
+- 🔨 Building projects to strengthen my development skills
+- 🌐 Learning web technologies, databases, and backend development
+- 🧠 Practicing Data Structures & Algorithms
+- 🔐 Exploring Cybersecurity and SOC fundamentals
+- 🚀 Passionate about learning, problem-solving, and building real-world applications
 
 ---
+
+
+## 🎯 Career Objective
+
+Aspiring software developer looking for opportunities to apply my technical
+skills, work on real-world projects, collaborate with teams, and grow
+through practical industry experience.
+
 
 
 
@@ -82,13 +91,22 @@
 
 ## 🚀 Key Projects
 
-- **IT Helpdesk & Ticket Management System** — Ticket creation, technician assignment, and status tracking.
-- **Expense Tracker System** — Expense management using PostgreSQL and Prisma.
-- **Amazon Clone** — Responsive e-commerce frontend.
-- **Bank Management System** — Basic banking operations implemented in C++.
-
+- **IT Helpdesk & Ticket Management System** — Developed a system for ticket creation, technician assignment, and issue status tracking.
+- **Expense Tracker System** — Built an expense management application using PostgreSQL and Prisma for data handling.
+- **Amazon Clone** — Created a responsive e-commerce frontend inspired by Amazon's interface.
+- **Bank Management System** — Implemented basic banking operations using C++.
 ---
 
+
+## 💼 Areas of Interest
+
+- Full Stack Web Development
+- Backend Development & APIs
+- Database Management
+- Software Development
+- Cybersecurity
+
+  
 ## 🤝 Let's Connect
 
 <div align="center">

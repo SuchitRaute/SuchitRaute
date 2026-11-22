@@ -23,7 +23,6 @@
 
 ---
 
----
 
 ## 🎯 Career Objective
 
@@ -32,7 +31,7 @@ skills, work on real-world projects, collaborate with teams, and grow
 through practical industry experience.
 
 
----
+
 
 
 ## 📊 GitHub Statistics
